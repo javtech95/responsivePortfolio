@@ -285,4 +285,23 @@ input[type=submit] {
     width: 100%;
     padding-right: 29px;
   }
+  #logo{
+    width: 100%;
+    margin-left: 0;
+  }
+  nav{
+    width: 75%;
+    margin-left: 2%;
+    position: relative;
+      padding-bottom: 3%;
+  }
+  .main-section{
+      margin-top:10%;
+  }
+  .auth-image{
+      width:100%;
+  }
+  .social{
+      width: 86px;
+  }
 }
