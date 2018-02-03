@@ -304,4 +304,7 @@ input[type=submit] {
   .social{
       width: 86px;
   }
+  .work{
+      width: 100%;
+  }
 }
